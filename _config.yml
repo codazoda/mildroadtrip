@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   watching a movie and cost less than a dinner date.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.mildroadtrip.com" # the base hostname & protocol for your site
-twitter_username: mildroadtrip
+twitter_username: MildRoadTrip
 
 # Build settings
 markdown: kramdown
