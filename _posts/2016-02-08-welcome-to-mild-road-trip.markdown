@@ -12,9 +12,3 @@ movie date.
 My goal for this blog is to share my own road trip experiences and to inspire 
 you to discover your surroundings by taking epic trips of your own. I'll write 
 about things that will help you plan, pack, and get on the road.
-
-TODO:
-Add Google Analytics
-Add Discus Comments
-Mailchimp Email List
-Mailchimp Subscribe Box
