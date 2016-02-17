@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to Mild Road Trip! This is a blog about getting out on the open road regardless of your budget or time restrictions. It’s about planning road trips that take less time than watching a movie at home and cost less than going on a movie date.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+My goal for this blog is to share my own road trip experiences and to inspire you to discover your surroundings by taking epic trips of your own. I’ll write about things that will help you plan, pack, and get on the road.
