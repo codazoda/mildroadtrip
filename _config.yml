@@ -12,7 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   A blog about planning road trips that take less time than 
   watching a movie and cost less than a dinner date.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.mildroadtrip.com" # the base hostname & protocol for your site
+url: "https://www.mildroadtrip.com" # the base hostname & protocol for your site
+enforce_ssl: www.mildroadtrip.com # without any protocol
 twitter_username: MildRoadTrip
 instagram_username: MildRoadTrip
 
