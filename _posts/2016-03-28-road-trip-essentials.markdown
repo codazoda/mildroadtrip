@@ -8,7 +8,7 @@ If you're going on a road trip you'll need a few road trip essentials. You can s
 
 First, you'll need road trip snacks. Almost any road trip needs snacks, even local trips.
 
-A great thing to do on small road trips is get into hanging a hammock. You can hang a hammock for day trips or overnight trips. I love lounging in my Grand Trunk hammock and it doesn't cost very much. Visit a park or a hiking trail and hang your hammock for a few hours. You'll really enjoy your stay in a hammock.
+A great thing to do on small road trips is get into hanging a hammock. You can hang a hammock for day trips or overnight trips. I love lounging in my [Grand Trunk hammock](http://amzn.to/1UxGRDe) and it doesn't cost very much. Visit a park or a hiking trail and hang your hammock for a few hours. You'll really enjoy your stay in a hammock.
 
 If you are going to do some overnight camping, you'll need more gear. You'll probably want to start with a tent, a sleeping pad, and a sleeping bag; at a minimum.  A blanket for extra warmth is also a good idea.
 
