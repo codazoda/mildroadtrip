@@ -18,5 +18,6 @@ Each time I post I need to do the following.
 - Run `jekyl serve` to see the site
 - Post on instagram @mildroadtrip
 - Post on Twitter @mildroadtrip
+- Keyword research data is in my notes repo
 
 [Mild Road Trip](http://www.mildroadtrip.com)
