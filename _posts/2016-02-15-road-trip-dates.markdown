@@ -4,7 +4,6 @@ title:  "Taking a Road Trip as a Date Idea"
 date:   2016-02-15 08:30:00 -0700
 categories: none
 ---
-# Taking a Road Trip as a Date Idea
 
 It's date weekend; are you going to dinner or a movie? You've done that a 
 million times, why not take a drive instead. A road trip gives you time

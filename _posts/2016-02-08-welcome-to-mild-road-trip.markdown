@@ -4,6 +4,7 @@ title:  "Welcome to Mild Road Trip"
 date:   2016-02-08 06:43:57 -0700
 categories: none
 ---
+
 Welcome to Mild Road Trip! This is a blog about getting out on the open road 
 regardless of your budget or time restrictions. It's about planning road trips 
 that take less time than watching a movie at home and cost less than going on a 
