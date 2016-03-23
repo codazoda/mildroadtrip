@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Ride on my New Bike"
-date:   2016-03-28 08:30:00 -0700
+date:   2016-03-28 17:30:00 -0700
 categories: [journal, motorcycle]
 ---
 
