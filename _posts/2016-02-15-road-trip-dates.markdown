@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taking a Road Trip as a Date Idea"
-date:   2016-02-15 08:30:00 -0700
+date:   2016-02-15
 categories: none
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Road Trip Essentials"
-date:   2016-03-28 08:30:00 -0700
+date:   2016-03-28
 categories: none
 ---
 

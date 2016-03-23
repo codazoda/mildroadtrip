@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Motorcycle Tours"
-date:   2016-03-21 08:30:00 -0700
+date:   2016-03-21
 categories: none
 ---
 ## Dreaming About Motorcycles

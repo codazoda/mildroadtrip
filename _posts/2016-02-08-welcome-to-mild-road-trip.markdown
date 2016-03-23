@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Mild Road Trip"
-date:   2016-02-08 06:43:57 -0700
+date:   2016-02-08
 categories: none
 ---
 
