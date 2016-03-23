@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First Ride on my New Bike"
+title:  "First Ride on My New Bike"
 date:   2016-03-23
 categories: [journal, motorcycle]
 ---
@@ -9,7 +9,7 @@ The bike is brand new. When I got it home Saturday it had 0.7 miles on it. On Mo
 
 But, today is my first real ride. I'm going to make the short trip to my parents house. They live about 3 miles from me. I plan a route that make one left turn out of my neighborhood then all the other intersections are either right turns or strait through with stop lights. I get the bike on the road, make an easy traffic free left turn, and I'm on my way.
 
-About half way there I pull up to the first stop light on my route. My visor is fogging up. Without much thought, I pulled the visor open to let in some air. A car pulls up behind me; my first bit of traffic. The light turns green anad I turn the throttle. Nothing. I can't move.
+About half way there I pull up to the first stop light on my route. My visor is fogging up. Without much thought, I pulled the visor open to let in some air. A car pulls up behind me; my first bit of traffic. The light turns green and I turn the throttle. Nothing. I can't move.
 
 I press the starter button just as the light turns yellow. "Sorry dude", I think about the guy behind me, "we just missed that one". I think I had let the clutch out to open my visor, killing the bike. When it turns green again, I proceed as if nothing happened.
 
@@ -19,6 +19,6 @@ I arrive at my parents house and knock on the door, no answer. I give it another
 
 At the same light as before, but heading the opposite direction, I go to take off and I can't get moving. This time the engine isn't dead, but somehow I'm still in 3rd gear. I down shift while traffic waits patently for me and I'm off. Thanks guys!
 
-A few minutes later I drive the bike up and down my street a couple times just to watch the odomoter click over to double digits. With 10 miles on the bike, I walk her backwards into my garage.
+A few minutes later I drive the bike up and down my street a couple times just to watch the odometer click over to double digits. With 10 miles on the bike, I walk her backwards into my garage.
 
 First ride down. Even though this isn't my first motorcycle, I obviously have lots to learn.
