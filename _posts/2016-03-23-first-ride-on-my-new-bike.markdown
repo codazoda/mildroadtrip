@@ -5,6 +5,8 @@ date:   2016-03-23
 tags:   [journal, motorcycle]
 ---
 
+![New TU250X Motorcycle](image/suzuki-tu250x-new.jpg)
+
 The bike is brand new. When I got it home Saturday it had 0.7 miles on it. On Monday I rode it back and forth up and down my street, passing my house about 10 times and racking it up to 3 miles. When I parked it, the bike smelled a little like burnt plastic. Part of the break in process, I hope.
 
 But, today is my first real ride. I'm going to make the short trip to my parents house. They live about 3 miles from me. I plan a route that make one left turn out of my neighborhood then all the other intersections are either right turns or strait through with stop lights. I get the bike on the road, make an easy traffic free left turn, and I'm on my way.
