@@ -19,3 +19,5 @@ instagram_username: MildRoadTrip
 
 # Build settings
 markdown: kramdown
+
+permalink: /:title.html

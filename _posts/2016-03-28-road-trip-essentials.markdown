@@ -2,7 +2,7 @@
 layout: post
 title:  "Road Trip Essentials"
 date:   2016-03-28
-categories: none
+tags:   none
 ---
 
 If you're going on a road trip you'll need a few road trip essentials. You can save money by packing what you need in advance.

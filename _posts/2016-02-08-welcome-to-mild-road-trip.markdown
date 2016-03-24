@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Mild Road Trip"
 date:   2016-02-08
-categories: none
+tags:   none
 ---
 
 Welcome to Mild Road Trip! This is a blog about getting out on the open road 

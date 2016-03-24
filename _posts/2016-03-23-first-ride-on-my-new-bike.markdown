@@ -2,7 +2,7 @@
 layout: post
 title:  "First Ride on My New Bike"
 date:   2016-03-23
-categories: [journal, motorcycle]
+tags:   [journal, motorcycle]
 ---
 
 The bike is brand new. When I got it home Saturday it had 0.7 miles on it. On Monday I rode it back and forth up and down my street, passing my house about 10 times and racking it up to 3 miles. When I parked it, the bike smelled a little like burnt plastic. Part of the break in process, I hope.

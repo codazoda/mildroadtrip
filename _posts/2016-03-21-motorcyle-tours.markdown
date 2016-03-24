@@ -2,7 +2,7 @@
 layout: post
 title:  "Motorcycle Tours"
 date:   2016-03-21
-categories: none
+tags:   motorcycle
 ---
 ## Dreaming About Motorcycles
 

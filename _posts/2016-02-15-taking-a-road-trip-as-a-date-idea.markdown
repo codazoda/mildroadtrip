@@ -2,7 +2,7 @@
 layout: post
 title:  "Taking a Road Trip as a Date Idea"
 date:   2016-02-15
-categories: none
+tags:   none
 ---
 
 It's date weekend; are you going to dinner or a movie? You've done that a 
