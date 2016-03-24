@@ -11,9 +11,9 @@ But, today is my first real ride. I'm going to make the short trip to my parents
 
 About half way there I pull up to the first stop light on my route. My visor is fogging up. Without much thought, I pulled the visor open to let in some air. A car pulls up behind me; my first bit of traffic. The light turns green and I turn the throttle. Nothing. I can't move.
 
-I press the starter button just as the light turns yellow. "Sorry dude", I think about the guy behind me, "we just missed that one". I think I had let the clutch out to open my visor, killing the bike. When it turns green again, I proceed as if nothing happened.
+I press the starter button just as the light turns yellow. "Sorry dude", I think about the guy behind me, "we just missed that one". I'm not sure how I killed it. When it turns green again, I proceed as if nothing happened.
 
-At the next intersection, a stop sign, the bike dies again. This time, I don't think I let the clutch out. Maybe I down shifted too early. This bike has pretty low gearing and you're in third gear by about 30 miles per hour. I'll pay a little more attention to that.
+At the next intersection, a stop sign, the bike dies again. Maybe I'm down shifting too early. I'm not letting the clutch out as I down shift, so I'm not sure it should matter, but maybe it does. This bike has pretty low gearing and you're in third gear by about 30 miles per hour. I'll pay a little more attention to that.
 
 I arrive at my parents house and knock on the door, no answer. I give it another knock and head back to my bike. Time to head home.
 
