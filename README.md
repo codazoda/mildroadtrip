@@ -20,4 +20,12 @@ Each time I post I need to do the following.
 - Post on Twitter @mildroadtrip
 - Keyword research data is in my notes repo
 
+## Updating
+
+In order to have github regenerate the site, and display pages that should now be loaded, the project needs to be updated and pushed. I have a modified.txt file that I use for the purpose.
+
+  date > modified.txt
+
+Then add and commit.
+
 [Mild Road Trip](http://www.mildroadtrip.com)
