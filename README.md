@@ -15,9 +15,10 @@ Each time I post I need to do the following.
 
 - Write the post and push it
 - Remember, posts are usually scheduled
-- Run `jekyl serve` to see the site
+- Run `jekyll serve` or `jekyll serve --future` to test the site
 - Post on instagram @mildroadtrip
 - Post on Twitter @mildroadtrip
+- Post trip video on [Mild Road Trip](https://www.youtube.com/channel/UC4ek7noEAwQZX6SoqnI14_g) YouTube Channel
 - Keyword research data is in my notes repo
 
 ## Updating
