@@ -240,3 +240,19 @@
         }
     }
 }
+
+table, th, td {
+    border: 1px solid black;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 5px;
+}
+
+th {
+    text-align: left;
+}
