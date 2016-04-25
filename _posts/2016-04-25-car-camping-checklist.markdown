@@ -5,8 +5,8 @@ date:   2016-04-25
 ---
 
 I've been researching the essentials we'll need for car camping. Here's the 
-list I've come up with for my family so far. We are thinking that we'll do 
-our camping as a bit of a hybrid this year. Instead of taking a bunch of food,
+list I've come up with for my family so far. This year, we're going to do 
+our camping as a bit of a hybrid. Instead of taking a bunch of food with us 
 we'll take just our sleeping gear and we'll find local places to dine out like 
 we would if we were staying in a hotel. As such, I've left food and cooking 
 gear off the list.
