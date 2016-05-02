@@ -2,7 +2,7 @@
 layout: post
 title:  "My First Motorcycle Ride to Work"
 date:   2016-05-02
-tags:   journal
+tags:   [journal, motorcycle]
 ---
 
 I work about 35 miles from my home. That doesn't seem like a lot, but I ride 
